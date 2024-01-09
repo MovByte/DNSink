@@ -4,3 +4,5 @@
 [ ] Host redirect web servers for undetectability through API emulation
 
 [ ] Include support for TVs
+
+[ ] Generate a random GUID for each user
