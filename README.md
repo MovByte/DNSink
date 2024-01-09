@@ -23,7 +23,7 @@ If the dns is blocked, use vpn
 5. Add the IP address
 6. Restart
 
-> You can import [this](https://cdn.discordapp.com/attachments/1016408292534272010/1052498070417449010/haven.onc) ONC file for ChromeOS in chrome://network if your workplace blocks chrome://settings
+> You can import [the ONC file](./userConfs/DNSink.onc) for ChromeOS in chrome://network if your workplace blocks chrome://settings
 
 ### Windows
 

@@ -1,0 +1,16 @@
+{
+	"Type": "UnencryptedConfiguration",
+	"NetworkConfigurations": [
+		{
+			"GUID": "{839bf2fc-cdfb-4ac2-a0c6-8f7cc6746f67}",
+			"Name": "DNSink",
+			"Type": "VPN",
+			"NameServersConfigType": "Static",
+			"StaticIPConfig": {
+				"NameServers": [
+					"192.198.95.86"
+				]
+			}
+		}
+	]
+}
